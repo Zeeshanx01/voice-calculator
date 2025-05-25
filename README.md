@@ -1,6 +1,6 @@
 
 
-### ✅ COPY EVERYTHING BELOW INTO YOUR `README.md`:
+### ✅ For easy running, follow the steps:
 
 ```markdown
 # 🎙️ Voice & Text Calculator
@@ -135,7 +135,7 @@ Both expect JSON like:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by \[Your Name Here]
+Made with ❤️ by Zeeshan Munir, Abbas Haider and Saif Ullah
 
 ---
 
